@@ -19,7 +19,7 @@ If you share an interest in servers, technology, or simply want to engage in mea
 
 Thank you for visiting my digital space. Wishing you seamless code compilation and trouble-free server experiences! 🚀✨
 
-You can learn more [Here](https://matteo.devellis.ca) !
+You can find additional information [on my website](https://matteo.devellis.ca), which is hosted on my personal server.
 
 
 
