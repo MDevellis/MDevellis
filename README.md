@@ -3,7 +3,7 @@ Matteo De Vellis
 
 I'm Matteo De Vellis, the mind behind the keyboard and the proud commander of my very own home server fortress! 🏡💻
 
-Technical Highlights
+Spec Highlights
 Operating System: Proxmox 8.1 (Debian 12 based Server OS)
 Virtualization Environment: Utilizing Proxmox LXCs for individual applications
 Key Services: Home Assistant, Plex, Heimdall, Nginx, Crafty, MotionEye, FileBrowser/NAS, and more
